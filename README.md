@@ -1,1 +1,7 @@
-# 21-1-IndividualStudy
+<h1>2021년 1학기 개별연구</h1>
+
+<h3>주제</h3>
+    <p>인공지능 기법을 이용한 태양광 전지 에너지 발생량 예측 모델 개발</p>
+
+<h3>사용 알고리즘</h3>
+    <p>SVM(Support Vector Machine)</p>
