@@ -9,4 +9,4 @@
 <h3>학과 경진대회 수상</h3>
     <p>21-1 산업시스템공학과 캡스톤 경진대회 동상</p>
 
-<img src = '상장.JPG' width = '300' height = '500'>
+<img src = '상장.JPG' width = '300' height = '400'>
